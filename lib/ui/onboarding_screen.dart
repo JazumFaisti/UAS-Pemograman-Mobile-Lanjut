@@ -103,7 +103,7 @@ class _ActionButtons extends StatelessWidget {
               children: [
                 Image.asset("images/icon_google.png"),
                 const Text(
-                  "Continiue with google",
+                  "Continue with google",
                   style: TextStyle(
                     fontFamily: "AB",
                     fontSize: 16,
@@ -139,7 +139,7 @@ class _ActionButtons extends StatelessWidget {
               children: [
                 Image.asset("images/icon_facebook.png"),
                 const Text(
-                  "Continiue with Facebook",
+                  "Continue with Facebook",
                   style: TextStyle(
                     fontFamily: "AB",
                     fontSize: 16,
@@ -175,7 +175,7 @@ class _ActionButtons extends StatelessWidget {
               children: [
                 Image.asset("images/icon_apple.png"),
                 const Text(
-                  "Continiue with Apple",
+                  "Continue with Apple",
                   style: TextStyle(
                     fontFamily: "AB",
                     fontSize: 16,
